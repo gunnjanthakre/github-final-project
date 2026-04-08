@@ -12,3 +12,4 @@ All contributions, bug reports, bug fixes, documentation improvements, enhanceme
 ## Reporting Bugs
 
 Please open an issue describing the bug and steps to reproduce it.
+# Contributing Guidelines
